@@ -2,7 +2,7 @@
 
 🎓 I'm a final-year Computer Science engineering student at **Grenoble INP – Ensimag**, also pursuing a **Master's degree in Artificial Intelligence**.
 
-🤖 I'm passionate about **Machine Learning, Deep Learning, and Generative AI**, particularly Large Language Models (LLMs), NLP, and building practical AI systems.
+ I'm passionate about **Machine Learning, Deep Learning, and Generative AI**, particularly Large Language Models (LLMs), NLP, and building practical AI systems.
 
  I enjoy exploring how AI models work under the hood and turning ideas into real-world applications.
 
@@ -16,7 +16,7 @@
 
 **Development & Tools:** FastAPI, Docker, Git, Linux, Bash
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 **[Cost-Aware LLM Router](https://github.com/allali-hamza/cost-aware-llm-router)**
 
