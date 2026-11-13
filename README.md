@@ -36,7 +36,7 @@ Built and trained a Transformer Encoder-Decoder architecture from scratch using 
 ## 🔥 Mes statistiques GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TON_PSEUDO&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=allali-hamza&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📫 Let's Connect
