@@ -33,6 +33,12 @@ Built and trained a Transformer Encoder-Decoder architecture from scratch using 
 - Trained and evaluated the model on a Linux command dataset.
 - Published the trained model on [Hugging Face](https://huggingface.co/hamza-allali/linux-command-transformer).
 
+## 🔥 Mes statistiques GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TON_PSEUDO&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ### 📫 Let's Connect
 
 I'm interested in opportunities in **Machine Learning, Deep Learning, and Generative AI**.
