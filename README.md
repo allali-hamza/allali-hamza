@@ -1,10 +1,9 @@
-# Hi there, I'm Hamza! 👋
+🎓 I'm a final-year Computer Science engineering student at Grenoble INP – Ensimag, also pursuing a Master's degree in Artificial Intelligence.
 
-🎓 I'm a final-year Computer Science engineering student at **Grenoble INP – Ensimag**, also pursuing a **Master's degree in Artificial Intelligence**.
+I'm passionate about Machine Learning, Deep Learning, and Generative AI, with a particular interest in Large Language Models (LLMs), Agentic AI, and inference optimization.
 
-I'm passionate about **Machine Learning, Deep Learning, and Generative AI**, with a particular interest in **Large Language Models (LLMs), inference optimization, and AI Engineering**.
+I enjoy understanding how AI models work under the hood, optimizing their performance, and building intelligent AI-powered applications.
 
-I enjoy understanding how AI models work under the hood, implementing architectures from scratch, optimizing their performance, and building practical AI applications.
 
 ### 🛠️ Tech Stack
 
@@ -56,6 +55,6 @@ Built and trained a **Transformer Encoder-Decoder architecture from scratch** us
 
 ### 📫 Let's Connect
 
-I'm interested in opportunities in **AI Engineering, Machine Learning, Deep Learning, and Generative AI**, particularly projects involving **LLMs and efficient AI systems**.
+I'm currently seeking a 6-month internship starting February or March 2027 in AI Engineering, Machine Learning, or Generative AI, with a particular interest in LLMs, Agentic AI, and efficient AI systems.
 
 Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/allali-hamza/)!
