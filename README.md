@@ -51,7 +51,10 @@ Built and trained a **Transformer Encoder-Decoder architecture from scratch** us
 
 ## 🔥 GitHub Stats
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=allali-hamza&theme=dark&hide_border=true](https://streak-stats.demolab.com?user=allali-hamza\&theme=dark\&hide_border=true)" alt="GitHub Streak" /> \</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=allali-hamza&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ### 📫 Let's Connect
 
