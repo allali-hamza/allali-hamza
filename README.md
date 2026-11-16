@@ -2,9 +2,9 @@
 
 🎓 I'm a final-year Computer Science engineering student at **Grenoble INP – Ensimag**, also pursuing a **Master's degree in Artificial Intelligence**.
 
- I'm passionate about **Machine Learning, Deep Learning, and Generative AI**, particularly Large Language Models (LLMs), NLP, and building practical AI systems.
+I'm passionate about **Machine Learning, Deep Learning, and Generative AI**, with a particular interest in **Large Language Models (LLMs), inference optimization, and AI Engineering**.
 
- I enjoy exploring how AI models work under the hood and turning ideas into real-world applications.
+I enjoy understanding how AI models work under the hood, implementing architectures from scratch, optimizing their performance, and building practical AI applications.
 
 ### 🛠️ Tech Stack
 
@@ -16,31 +16,46 @@
 
 **Backend & Tools:** FastAPI, Pydantic, Docker, Git, Linux, Bash, uv
 
-###  Featured Projects
+### 🚀 Featured Projects
 
-**[Cost-Aware LLM Router](https://github.com/allali-hamza/cost-aware-llm-router)**
+#### [LLM Inference Optimization](https://github.com/allali-hamza/llm-inference-optimization)
 
-An adaptive LLM routing system that selects the most cost-effective model while maintaining response quality.
+Developed a custom **LLM inference engine in PyTorch** for Qwen3-1.7B, focusing on GPU performance optimization.
 
-- **37% cost reduction** compared to the evaluated baseline.
-- **+0.4% quality improvement** across 500+ evaluated prompts.
+- Implemented **KV Cache, FlashAttention, INT8/INT4 quantization, and batched inference**.
+- Achieved up to **6× higher decoding throughput** compared to the BF16 baseline.
+- Reduced GPU memory allocation by up to **57%** through quantization.
+- Built a **FastAPI backend** and an interactive **Streamlit interface** for inference and performance analysis.
 
-**[Transformer From Scratch](https://github.com/allali-hamza/transformer-from-scratch)**
+#### [Qwen3 From Scratch](https://github.com/allali-hamza/qwen3-from-scratch)
 
-Built and trained a Transformer Encoder-Decoder architecture from scratch using PyTorch to translate natural language instructions into Linux commands.
+Implemented the **Qwen3-1.7B architecture from scratch in PyTorch**, focusing on understanding the internal components of modern LLMs.
 
-- Implemented Multi-Head Attention, positional encoding, encoder and decoder blocks.
+- Implemented **Grouped Query Attention (GQA), RoPE, QK-Norm, RMSNorm, and SwiGLU**.
+- Built Transformer decoder blocks and the complete model forward pass.
+- Integrated pretrained weights from Hugging Face.
+
+#### [Secure RAG Assistant](https://github.com/allali-hamza/secure-rag-assistant)
+
+Developed a secure local LLM assistant combining **hybrid RAG and NeMo Guardrails** to improve the reliability and safety of generated responses.
+
+- Implemented **prompt injection detection, PII masking, and hallucination checks**.
+- Integrated input/output safety controls into the LLM pipeline.
+
+#### [Transformer From Scratch](https://github.com/allali-hamza/transformer-from-scratch)
+
+Built and trained a **Transformer Encoder-Decoder architecture from scratch** using PyTorch to translate natural language instructions into Linux commands.
+
+- Implemented **Multi-Head Attention, positional encoding, encoder and decoder blocks**.
 - Trained and evaluated the model on a Linux command dataset.
 - Published the trained model on [Hugging Face](https://huggingface.co/hamza-allali/linux-command-transformer).
 
-## 🔥 Mes statistiques GitHub
+## 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=allali-hamza&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=allali-hamza&theme=dark&hide_border=true](https://streak-stats.demolab.com?user=allali-hamza\&theme=dark\&hide_border=true)" alt="GitHub Streak" /> \</p>
 
 ### 📫 Let's Connect
 
-I'm interested in opportunities in **Machine Learning, Deep Learning, and Generative AI**.
+I'm interested in opportunities in **AI Engineering, Machine Learning, Deep Learning, and Generative AI**, particularly projects involving **LLMs and efficient AI systems**.
 
-Feel free to explore my repositories and connect with me!
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/allali-hamza/)!
