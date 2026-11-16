@@ -10,11 +10,11 @@
 
 **Languages:** Python, Java, C, JavaScript
 
-**Machine Learning & Deep Learning:** PyTorch, Scikit-learn, Hugging Face, Pandas, NumPy
+**Machine Learning & Deep Learning:** PyTorch, Scikit-learn, Hugging Face, NumPy, Pandas
 
-**LLMs & Generative AI:** RAG, Ollama, ChromaDB, NeMo Guardrails
+**LLMs & Generative AI:** Transformers, RAG, LangChain, LangGraph, Ollama, ChromaDB, NeMo Guardrails, KV Cache, FlashAttention, Quantization
 
-**Development & Tools:** FastAPI, Docker, Git, Linux, Bash
+**Backend & Tools:** FastAPI, Pydantic, Docker, Git, Linux, Bash, uv
 
 ###  Featured Projects
 
